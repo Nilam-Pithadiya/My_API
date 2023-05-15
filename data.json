@@ -1,0 +1,162 @@
+[
+				{
+					"id ": 1,
+					"ProductName" : "Washing Machine",
+					"ProductImage" : "https://www.lg.com/in/images/washing-machines/md06184596/gallery/T70SJSF1Z-Washing-Machine-Front-View-D-01.jpg",
+					"ProductPrice" : "24,299/- Only",
+					"ProductDescription" : "Explore the new range of LG Washing Machine featuring cutting-edge washing machine technology, loaded with Direct Drive motor which gives 6 unique Motions, resulting best wash performance along with features like Steam, Wi-Fi and NFC.",
+					"ProductCategory" : "Top Load Agitator"
+				},
+				{
+					"id" : 2,
+					"ProductName" : "Smart Wrist Watch",
+					"ProductImage" : "https://cdn.shopify.com/s/files/1/0997/6284/products/P1_a4f3ca92-7b00-4e0f-894c-8630f1b77bec_480x.png?v=1655378576",
+					"ProductPrice" : "2,499/- Only",
+					"ProductDescription" : "Stay connected the new way with India’s calling smartwatch. Answer calls, store favourite contacts and dial from recent call logs, on the go.",
+					"ProductCategory" : "smartwatch Which have Phone Functionality"
+				},
+				{
+					"id" : 3,
+					"ProductName" : "Mixer - Grinder",
+					"ProductImage" : "https://shop.bajajelectricals.com/content/dam/bel/products/in/en/food-preparation-appliances/mixer-grinders/410174_P/images/410174_P_default.png",
+					"ProductPrice" : "4,674/- Only",
+					"ProductDescription" : "Wattage: 750 W; Voltage: 220-240V ; Revolution: 20000;No of Jars: 3; Jar Size: 1.5L Liquidising Jar, 1L Dry grinder, 0.3L Chutney Jar; Jar Material: Stainless Steel; Body Material: ABS; Cord Material: PVC; Blade Material: Stainless Steel; Speed Control: 3 Speed Control Motor",
+					"ProductCategory" : "2-in-1 stainless steel blades"
+				},
+				{
+					"id" : 4,
+					"ProductName" : "Activa",
+					"ProductImage" : "https://financialexpresswpcontent.s3.amazonaws.com/uploads/2020/01/4-11.jpg",
+					"ProductPrice" : "72,400/- Only",
+					"ProductDescription" : "The Honda Activa 6G is powered by 109.51cc BS6 engine which develops a power of 7.68 bhp and a torque of 8.79 Nm. With both front and rear drum brakes, Honda Activa 6G comes up with combined braking system of both wheels. This Activa 6G scooter weighs 107 kg and has a fuel tank capacity of 5.3 liters.",
+					"ProductCategory" : "Activa - 125"
+				},
+				{
+					"id" : 5,
+					"ProductName" : "Car",
+					"ProductImage" : "https://stimg.cardekho.com/images/carexteriorimages/630x420/Tata/Tiago-NRG/9244/1659513154002/front-left-side-47.jpg?tr=w-456",
+					"ProductPrice" : "6.42lakh Only",
+					"ProductDescription" : "The new Tiago NRG is based on the facelift version of Tatas hatchback Tiago. The NRG variant of the car is a crossover version of the Tiago that comes with bold cladding all around and a dual-tone paint scheme. The NRG gets higher ground clearance compared to the standard Tiago.",
+					"ProductCategory" : "Tiago NRG XT"
+				},
+				{
+					"id" : 6,
+					"ProductName" : "Earbuds",
+					"ProductImage" : "https://cdn.shopify.com/s/files/1/0997/6284/products/4_58dcaaa9-ff0a-420a-9539-5b62242fa581_480x.png?v=1627585368",
+					"ProductPrice" : "1,999/- Only",
+					"ProductDescription" : "Experience sharp audio every time, from work calls and chitchat sessions to your favourite music and binge watching",
+					"ProductCategory" : "Hyper Sync technology Product"
+				},
+				{
+					"id" : 7,
+					"ProductName" : "Smart TV",
+					"ProductImage" : "https://images.samsung.com/is/image/samsung/p6pim/in/ua32t4340akxxl/gallery/in-hd-tv-t4340-ua32t4340akxxl-454444252?$720_576_PNG$",
+					"ProductPrice" : "15,490/- Only",
+					"ProductDescription" : "Plug your favourite entertainment and media into your TV – watch videos, play music, or view photos through a USB connection.",
+					"ProductCategory" : "LED"
+				},
+				{
+					"id" : 8,
+					"ProductName" : "Camera",
+					"ProductImage" : "https://m.media-amazon.com/images/I/914hFeTU2-L._SL1500_.jpg",
+					"ProductPrice" : "39,400/- Only",
+					"ProductDescription" : "24.1megapixel APS-C CMOS sensor & DIGIC 4+ image processor. 9 point AF with 1 centre cross-type AF point. Standard ISO 100 - 6400 (expandable to 12 800) Wi-Fi / NFC supported.",
+					"ProductCategory" : "the compact and the DSLR."
+				},
+				{
+					"id" : 9,
+					"ProductName" : "Hair Conditioner",
+					"ProductImage" : "https://media6.ppl-media.com/mediafiles/ecomm/misc/1624277142_tresemme-detox-and-restore-conditoner.jpg",
+					"ProductPrice" : "195/- Only",
+					"ProductDescription" : "If damaged hair with weak follicles is what ails you, this is the right conditioner for you. Infused with a botanical blend of antioxidants like neem and ginseng, the conditioner clears the hair of dandruff due to the antimicrobial property present in neem. Ginseng ensures a healthy scalp leaving you with soft, shiny hair. The Tresemme detox and restore conditioner works best after a deep oil massage and hence, is aptly formulated for any and all Indian hair types.",
+					"ProductCategory" : "Natural"
+				},
+				{
+					"id" : 10,
+					"ProductName" : "Magical Pen",
+					"ProductImage" : "https://i.ytimg.com/vi/PM3Z_ee065E/hqdefault.jpg",
+					"ProductPrice" : "149/- Only (12 packs)",
+					"ProductDescription" : "Malala writes that she hopes that readers will realize that every pencil can be magic because the real magic is “in you, in your words, in your voice.” Children need opportunities to talk about issues that concern them and to be involved in broader issues that affect them.",
+					"ProductCategory" : "Magical pen"
+				},
+				{
+					"id" : 11,
+					"ProductName" : "PVC Pipes",
+					"ProductImage" : "https://5.imimg.com/data5/WE/UK/ST/SELLER-5430875/rigid-pvc-pipes-500x500.jpg",
+					"ProductPrice" : "90/- Only (per meter)",
+					"ProductDescription" : "Rigid compounds are better suited for exterior protective uses, such as wall claddings, fascia boards and water drainage pipes. Flexible compounds can provide different uses, such as the material used to make medical blood bags, gumboots or even coasters for your summer drinks.",
+					"ProductCategory" : "Rigid PVC pipe"
+				},
+				{
+					"id" : 12,
+					"ProductName" : "Wooden Toys",
+					"ProductImage" : "https://cdn.shopify.com/s/files/1/0414/8169/9496/products/TL8386-timber-taxi-1_1024x1024.jpg?v=1643301205",
+					"ProductPrice" : "2,634/- Only",
+					"ProductDescription" : "Designed and made by Tender Leaf Toys Call a taxi! Get around in style and pick up the Merrywood folk in this quirky log-shaped vehicle. Grabbing a ride today is Fungi, Robbie, and Woody.",
+					"ProductCategory" : "Tender Leaf Toy"
+				},
+				{
+					"id" : 13,
+					"ProductName" : "Refrigerator",
+					"ProductImage" : "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1650094055/Croma%20Assets/Large%20Appliances/Refrigerator/Images/251548_izbzqy.png/mxw_2048,f_auto",
+					"ProductPrice" : "1,75,990/- Only",
+					"ProductDescription" : "674 Litres, Side-by-Side Refrigerator, Frost Free Defrost System ,Fridge Right Freezer left, Dimensions – 91.30 x 73.50 x 179.00 cms, DoorCooling Plus Technology, 12 Months Warranty, 10 Years Compressor Warranty",
+					"ProductCategory" : "Frost Free"
+				},
+				{
+					"id" : 14,
+					"ProductName" : "Diamond Bracelets",
+					"ProductImage" : "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRCff2xqZrESs_n5Dy_Oo5o_nDHnzUAQ1A8eHkM529I21F7ZFBE_RE51ObfbIGuurIFEHdHzuO10gm6g8hlgPAqyGXOmGWbTER6DB8diJb4fAdlZd34yjLK&usqp=CAE",
+					"ProductPrice" : "68,448/- Only",
+					"ProductDescription" : "Diamond Bracelet (0.42 ct, IJ-SI), 14 KT Rose Gold Jewellery - Sequence Diamond Bracelet for Women. Length 2.4 Anna.",
+					"ProductCategory" : "Rose Gold"
+				},
+				{
+					"id" : 15,
+					"ProductName" : "Sewing Machine",
+					"ProductImage" : "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR_HGvQEUqx8rEWq4CTh_cs1gBJXJgFb3-kbJUBwaIawrd7w5ZgDXa7owqszdPYWEREeXLBGuTCchi16d4E9WDF6q517Uts0ZLh-PrqzMaDvqredwxfLVpi6g&usqp=CAE",
+					"ProductPrice" : "8,553/- Only",
+					"ProductDescription" : "Product Dimensions ‏ : ‎ 68 x 30 x 80 cm; 34 Kilograms , Manufacturer ‏ : ‎ Juki Sewing Machine, Country of Origin ‏ : ‎ India, Item Weight ‏ : ‎ 34 kg , Net Quantity ‏ : ‎ 1.00 Unit",
+					"ProductCategory" : "Electrically Operated"
+				},
+				{
+					"id" : 16,
+					"ProductName" : "Study Table",
+					"ProductImage" : "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSTxmotQ9ghKuHgP8PE0XU-cdI8AHvPBUCZ9jS4ilAFO2qP9tjcZ9kc-QMvCIkFJnfAW6JDqkAtepFoNzJyaryzlst_yvnl0dNVKtbxvRhnHIWfBqGIA8_36Q&usqp=CAE",
+					"ProductPrice" : "5,999/- Only",
+					"ProductDescription" : "Exotic teak frosty white ,Premium engineered wood, Wooden Street",
+					"ProductCategory" : "Wooden Street"
+				},
+				{
+					"id" : 17,
+					"ProductName" : "Wooden Cupboard",
+					"ProductImage" : "https://www.ikea.com/in/en/images/products/rakkestad-wardrobe-with-3-doors-black-brown__0823987_pe776018_s5.jpg?f=s",
+					"ProductPrice" : "13,900/- Only",
+					"ProductDescription" : "Simple and smart! When all you need is a wardrobe with all the basic functions. If storage space is still not enough, why not add another wardrobe from the RAKKESTAD series",
+					"ProductCategory" : "RAKKESTAD Series"
+				},
+				{
+					"id" : 18,
+					"ProductName" : "microwave-ovens",
+					"ProductImage" : "https://www.lg.com/in/images/microwave-ovens/md07536273/gallery/MC2886BHT-Microwave-ovens-Front-view-with-logo-D-01.jpg",
+					"ProductPrice" : "16,199/- Only",
+					"ProductDescription" : "Diet Fry , 51 Auto cook Menu , Roti Basket , Ghee in 12 minutes, Multi cook Tawa, Stainless Steel Cavity",
+					"ProductCategory" : "LG 28 L Convection Microwave "
+				},
+				{
+					"id" : 19,
+					"ProductName" : "Photo Frame",
+					"ProductImage" : "https://letmedecor.com/wp-content/uploads/2021/07/12-Photos-Led-Light-Photo-Hanger-01.jpg",
+					"ProductPrice" : "949/- Only",
+					"ProductDescription" : "Straw Rope, Natural Wood Board and tiny clothespins. It is a sincere product that you can give as a gift to your family, colleagues, newborns, lover, friends, close and even yourself. Capture special moments for you or photograph your dream where you want to travel, with a photo hanger that you can tell not only for others but also for pampering.",
+					"ProductCategory" : "Decor, Photo Frame, Well Accents"
+				},
+				{
+					"id" : 20,
+					"ProductName" : "Hand Purse",
+					"ProductImage" : "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRsHFEXLNRFIlhc--6bdc_NHfhaut8WMJsySc2LFZ2Ollg8-fTr9FgfkdsVSk8TurdXJC_dT7eMLo-XGtG0jxF71S8-Ll5PCmcDyOKCJIA&usqp=CAE",
+					"ProductPrice" : "727/- Only",
+					"ProductDescription" : "Hand bags with sling belts.:Material: PU. No. of Compartments: 2. Pattern: Textured. Net Quantity (N): 1. Sizes:Free Size (Length Size: 10 in, Width Size: 5 in, Height Size: 7 in) . Hand bags with sling belt are very elegant and spacious.. Country of Origin: India. Easy Returns Available In Case Of Any Issue.",
+					"ProductCategory" : "Faux Leather"
+				}
+			   ]
